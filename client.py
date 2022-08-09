@@ -4,7 +4,7 @@ import os
 import subprocess
 
 s = socket.socket()
-host = "192.168.29.131" #dynamic ip of the server keeps on changing every time you restart the computer
+host = "" #dynamic ip of the server keeps on changing every time you restart the computer when testing locally
 port = 9999
 
 s.connect((host, port))
