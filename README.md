@@ -7,7 +7,7 @@ We can connect to  device of friend/victim's anytime using 2 methods<br>
 Here we make use of reverse connection to connect to friend/victim's device.<br>
 
 <b> Reason for avoiding direct connection ? </b><br>
-since we know IP addressed are of two types  dynamic and static<br>
+since we know IP addresses are of two types  dynamic and static<br>
 and our routers give us Dynamic IP <br>
 Our friends/victims IP address will keep on changing with each restart<br>
 To avoid this problem we can make use of reverse connection<br>
